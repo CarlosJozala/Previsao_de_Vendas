@@ -3,7 +3,7 @@
 Neste projeto foi desenvolvida uma previsão de vendas com o python, por meio de inteligência artifical, extraindo informações de uma planilha em CSV do excel, por meio de bibliotecas como: Matplotlib, Seaborn, Scikit-learn, Pandas, criando previsão por meio de gráficos
 
 # :bookmark_tabs:	Objetivo do Projeto
-Entender as previsões de vendas para determinados produtos, associados a sua categoria de propaganda
+Entender as previsões de vendas para determinados produtos, associados a sua categoria de propaganda.
 
 # 💻 Miscelânia
 
